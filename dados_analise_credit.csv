@@ -1,0 +1,1001 @@
+id,name,Credit_card,Valor,Value,Fintech
+1,Corey Westpfel,mastercard,927.99,$927.99,"IES Holdings, Inc."
+2,Aloysius Hurle,mastercard,305.92,$305.92,ASML Holding N.V.
+3,Ines Bodiam,mastercard,175.4,$175.40,NovoCure Limited
+4,Helga Antoniazzi,mastercard,305.8,$305.80,Lindblad Expeditions Holdings Inc. 
+5,Westley Rives,mastercard,40.58,$40.58,"Blackrock MuniHoldings New York Quality Fund, Inc."
+6,Pollyanna Novill,mastercard,257.76,$257.76,Quorum Health Corporation
+7,Orly Bevens,mastercard,13.9,$13.90,DRDGOLD Limited
+8,Clarette Daft,mastercard,195.92,$195.92,500.com Limited
+9,Augustin Sisnett,mastercard,572.06,$572.06,"Transcat, Inc."
+10,George Hodinton,mastercard,490.84,$490.84,Universal Health Realty Income Trust
+11,Arlinda Sillito,mastercard,234.86,$234.86,"CYS Investments, Inc."
+12,Rich Millson,mastercard,226.28,$226.28,Fortress Investment Group LLC
+13,Ranique Lindro,mastercard,532.59,$532.59,"PayPal Holdings, Inc."
+14,Marlow Richarson,mastercard,546.73,$546.73,Cheetah Mobile Inc.
+15,Tiffie Warlowe,mastercard,211.62,$211.62,SodaStream International Ltd.
+16,Mora Gradwell,mastercard,827.78,$827.78,VTTI Energy Partners LP
+17,Conn Karoly,mastercard,917.17,$917.17,"G-III Apparel Group, LTD."
+18,Leonore Burwin,mastercard,847.22,$847.22,Long Island Iced Tea Corp.
+19,Carita Petronis,mastercard,571.16,$571.16,United States Cellular Corporation
+20,Redd O'Hagan,mastercard,207.4,$207.40,Ship Finance International Limited
+21,Jase Gilsthorpe,mastercard,357.37,$357.37,iPath US Treasury 10-year Bear ETN
+22,Elfrieda Phillipson,mastercard,761.92,$761.92,"Verifone Systems, Inc."
+23,Chuck Swinglehurst,mastercard,107.25,$107.25,Gol Linhas Aereas Inteligentes S.A.
+24,Edlin Tyzack,mastercard,682.82,$682.82,"Bay Bancorp, Inc."
+25,Kyle Keys,mastercard,664.9,$664.90,First Financial Bancorp.
+26,Cesare Worrall,mastercard,414.48,$414.48,"Mirna Therapeutics, Inc."
+27,Latrena Buesden,mastercard,197.0,$197.00,IHS Markit Ltd.
+28,Lek Lonsdale,mastercard,78.44,$78.44,"MBIA, Inc."
+29,Kristoffer Sisland,mastercard,497.65,$497.65,Resolute Forest Products Inc.
+30,Gothart Marre,mastercard,863.85,$863.85,"Morgan Stanley Emerging Markets Fund, Inc."
+31,Rodd Matthisson,mastercard,996.62,$996.62,"Quintiles IMS Holdings, Inc."
+32,Pascal Durrance,mastercard,249.42,$249.42,Formula Systems (1985) Ltd.
+33,Rodney Mark,mastercard,388.33,$388.33,VTTI Energy Partners LP
+34,Zenia MacWilliam,mastercard,997.95,$997.95,"MoSys, Inc."
+35,Guthry Urwin,mastercard,887.49,$887.49,Canadian Imperial Bank of Commerce
+36,Allin McKue,mastercard,959.73,$959.73,"FairPoint Communications, Inc."
+37,Dot Fawloe,mastercard,560.87,$560.87,"Duff & Phelps Utilities Income, Inc."
+38,Olive Hobell,mastercard,913.55,$913.55,"ExlService Holdings, Inc."
+39,Staford Titford,mastercard,394.77,$394.77,Tekla Life Sciences Investors
+40,Wallache Dunning,mastercard,923.27,$923.27,American Homes 4 Rent
+41,Shane Santus,mastercard,612.06,$612.06,STRATS Trust
+42,Inge O'Dogherty,mastercard,607.42,$607.42,"PrivateBancorp, Inc."
+43,Lowrance Breitling,mastercard,894.89,$894.89,"ING Group, N.V."
+44,Rhea Brandt,mastercard,304.28,$304.28,Nucor Corporation
+45,Pyotr Pordal,mastercard,35.18,$35.18,Xcel Energy Inc.
+46,Kora Chaudrelle,mastercard,101.0,$101.00,"Assembly Biosciences, Inc."
+47,Milicent Rampton,mastercard,230.64,$230.64,"Invuity, Inc."
+48,Inna Banane,mastercard,579.76,$579.76,TransAct Technologies Incorporated
+49,Killian Cossington,mastercard,635.38,$635.38,Credit Acceptance Corporation
+50,Jolee Marcoolyn,mastercard,395.86,$395.86,Meridian Bioscience Inc.
+51,Bibby Fish,mastercard,86.71,$86.71,Kemper Corporation
+52,Jarrod Lipprose,mastercard,45.64,$45.64,Six Flags Entertainment Corporation New
+53,Terrell Goodered,mastercard,170.64,$170.64,Whitestone REIT
+54,Mycah Duesbury,mastercard,715.9,$715.90,Halcon Resources Corporation
+55,Joyous Budcock,mastercard,649.7,$649.70,The Spectranetics Corporation
+56,Armstrong Archibold,mastercard,841.85,$841.85,"Zynerba Pharmaceuticals, Inc."
+57,Elvera Mariotte,mastercard,784.64,$784.64,"Essex Property Trust, Inc."
+58,Nap Jorck,mastercard,939.41,$939.41,Southern Company (The)
+59,Prisca Mathiasen,mastercard,631.45,$631.45,Francesca's Holdings Corporation
+60,Ad Josovich,mastercard,10.09,$10.09,Pacific Continental Corporation (Ore)
+61,Ryon Dickerson,mastercard,893.42,$893.42,JMP Group LLC
+62,Prisca Jeeves,mastercard,626.29,$626.29,Monster Beverage Corporation
+63,Frieda Wolfe,mastercard,69.13,$69.13,Autohome Inc.
+64,Burke Alvin,mastercard,848.92,$848.92,Ideal Power Inc.
+65,Zelda Bugdall,mastercard,546.56,$546.56,Alibaba Group Holding Limited
+66,Muffin Arkwright,mastercard,706.41,$706.41,Sunoco LP
+67,Griselda Mattheissen,mastercard,943.97,$943.97,Qwest Corporation
+68,Major Durward,mastercard,112.69,$112.69,PIMCO Dynamic Credit and Mortgage Income Fund
+69,Latashia Skipton,mastercard,391.15,$391.15,"Rollins, Inc."
+70,Hattie Hann,mastercard,231.57,$231.57,Nuveen Preferred and Income Term Fund
+71,Osmund Scopyn,mastercard,196.09,$196.09,Alpine Global Dynamic Dividend Fund
+72,Thadeus Cato,mastercard,207.29,$207.29,Navios Maritime Holdings Inc.
+73,Catha Fetterplace,mastercard,420.55,$420.55,"TerraForm Global, Inc."
+74,Geri Wolfit,mastercard,435.27,$435.27,"ArQule, Inc."
+75,Janot Plaid,mastercard,505.58,$505.58,"Invuity, Inc."
+76,Eugenie Filpi,mastercard,706.16,$706.16,"Keryx Biopharmaceuticals, Inc."
+77,Brose Milroy,mastercard,338.61,$338.61,"Shiloh Industries, Inc."
+78,Willyt Clethro,mastercard,608.56,$608.56,"Forward Industries, Inc."
+79,James Matyas,mastercard,38.73,$38.73,Mobile TeleSystems OJSC
+80,Christin Benion,mastercard,191.03,$191.03,"Everbridge, Inc."
+81,Gerrilee Fisk,mastercard,553.39,$553.39,Fortive Corporation
+82,Elisha Carabet,mastercard,568.35,$568.35,"Teligent, Inc."
+83,Sumner Caselick,mastercard,123.73,$123.73,Barington/Hilco Acquisition Corp.
+84,Esma Ebdin,mastercard,47.31,$47.31,Wix.com Ltd.
+85,Carolee Dymick,mastercard,476.17,$476.17,First Trust Dorsey Wright Focus 5 ETF
+86,Rustie Twigge,mastercard,648.79,$648.79,Algonquin Power & Utilities Corp.
+87,Neville Remer,mastercard,211.48,$211.48,Bitauto Holdings Limited
+88,Hubie Lerven,mastercard,859.64,$859.64,"Farmers & Merchants Bancorp, Inc."
+89,Alisun Hawkett,mastercard,123.13,$123.13,Blackrock Municipal 2020 Term Trust
+90,Ingra Symcoxe,mastercard,142.77,$142.77,"Blackrock MuniHoldings California Quality Fund,  Inc."
+91,Giuseppe Rozet,mastercard,578.42,$578.42,Government Properties Income Trust
+92,Trudy Wetherill,mastercard,707.89,$707.89,"CASI Pharmaceuticals, Inc."
+93,York Gueinn,mastercard,505.35,$505.35,"Zoe's Kitchen, Inc."
+94,Webb Rickcord,mastercard,870.94,$870.94,Western Asset Mortgage Capital Corporation
+95,Phip Wellbelove,mastercard,192.11,$192.11,"Kelly Services, Inc."
+96,Trevor Ellaman,mastercard,601.15,$601.15,FlexShares Credit-Scored US Long Corporate Bond Index Fund
+97,Nerita Yurenin,mastercard,309.55,$309.55,Nuveen New York AMT-Free Quality Municipal
+98,Kristel Biers,mastercard,583.17,$583.17,"Berry Global Group, Inc."
+99,Florette Odegaard,mastercard,659.52,$659.52,FB Financial Corporation
+100,Ara Hartford,mastercard,567.54,$567.54,"Tempur Sealy International, Inc."
+101,Ronnica Pitford,mastercard,736.52,$736.52,"TerraForm Global, Inc."
+102,Stearn Penhaleurack,mastercard,648.38,$648.38,FIRST REPUBLIC BANK
+103,Janel Petracci,mastercard,277.7,$277.70,CyrusOne Inc
+104,Noel Johanning,mastercard,531.31,$531.31,"CSG Systems International, Inc."
+105,Ignatius Koppen,mastercard,389.06,$389.06,DMC Global Inc.
+106,Judas MacMychem,mastercard,803.54,$803.54,Boston Omaha Corporation
+107,Cazzie Soigoux,mastercard,80.46,$80.46,CHS Inc
+108,Fee Shirrell,mastercard,80.33,$80.33,Burcon NutraScience Corp
+109,Beverly Origin,mastercard,924.85,$924.85,"Republic Services, Inc."
+110,Rora Merrigan,mastercard,945.6,$945.60,Valley National Bancorp
+111,Davie Van Bruggen,mastercard,996.55,$996.55,Tortoise Energy Infrastructure Corporation
+112,Catherin Flello,mastercard,442.64,$442.64,Korea Electric Power Corporation
+113,Avrit Peasby,mastercard,957.68,$957.68,Tredegar Corporation
+114,Edwina Fourmy,mastercard,60.15,$60.15,M B T Financial Corp
+115,Joshua Mulhall,mastercard,582.17,$582.17,"Exactech, Inc."
+116,Ulrica Sumshon,mastercard,899.96,$899.96,Fuling Global Inc.
+117,Conan Brundill,mastercard,315.27,$315.27,Citigroup Inc.
+118,Dyna Liveley,mastercard,432.42,$432.42,Resonant Inc.
+119,Adrien Estoile,mastercard,979.43,$979.43,National Commerce Corporation
+120,Gav Bichard,mastercard,819.69,$819.69,Kayne Anderson Acquisition Corp.
+121,Jobi Vaggs,mastercard,162.76,$162.76,Kayne Anderson MLP Investment Company
+122,Seward Worledge,mastercard,561.87,$561.87,New Senior Investment Group Inc.
+123,Devland Ladewig,mastercard,722.74,$722.74,"Meritor, Inc."
+124,Cobbie MacGiffin,mastercard,291.72,$291.72,China New Borun Corporation
+125,Garrard Sennett,mastercard,261.76,$261.76,Acxiom Corporation
+126,Wayne McGairl,mastercard,519.27,$519.27,Elkhorn Commodity Rotation Strategy ETF
+127,Burke Alp,mastercard,562.76,$562.76,"NextEra Energy, Inc."
+128,Ketti Howley,mastercard,511.77,$511.77,"OSI Systems, Inc."
+129,Even Bolding,mastercard,253.68,$253.68,Murphy USA Inc.
+130,Nathanael Fillary,mastercard,549.82,$549.82,CMS Energy Corporation
+131,Weider Gabala,mastercard,140.19,$140.19,Ultragenyx Pharmaceutical Inc.
+132,Dunn Merryfield,mastercard,7.18,$7.18,"Safe Bulkers, Inc"
+133,Briny Vankov,mastercard,835.92,$835.92,ESCO Technologies Inc.
+134,Garrott Jickles,mastercard,872.08,$872.08,"AVEO Pharmaceuticals, Inc."
+135,Zorah Wakley,mastercard,727.96,$727.96,Euroseas Ltd.
+136,Gaspard Filshin,mastercard,667.97,$667.97,"Live Nation Entertainment, Inc."
+137,Bibby Brigstock,mastercard,397.08,$397.08,Brink's Company (The)
+138,Angelica Amdohr,mastercard,245.49,$245.49,Washington Prime Group Inc.
+139,Roman Mollnar,mastercard,86.68,$86.68,iShares iBoxx $ High Yield ex Oil & Gas Corporate Bond ETF
+140,Legra Abrehart,mastercard,952.84,$952.84,Anworth Mortgage Asset  Corporation
+141,Eloisa Morford,mastercard,637.3,$637.30,BorgWarner Inc.
+142,Adolph Whapple,mastercard,964.67,$964.67,"H&E Equipment Services, Inc."
+143,Christina Jenteau,mastercard,320.95,$320.95,"Workhorse Group, Inc."
+144,Brendin Kubach,mastercard,732.76,$732.76,Azure Power Global Limited
+145,Tanitansy Macellar,mastercard,975.17,$975.17,Citizens & Northern Corp
+146,See Nucci,mastercard,636.31,$636.31,Sonoco Products Company
+147,Humbert Dovey,mastercard,66.15,$66.15,"Wilhelmina International, Inc."
+148,Charlton Facey,mastercard,181.26,$181.26,Pebblebrook Hotel Trust
+149,Brooke Averay,mastercard,874.04,$874.04,"Kona Grill, Inc."
+150,Chelsey Prestidge,mastercard,757.68,$757.68,Otter Tail Corporation
+151,Clifford Neesam,mastercard,514.89,$514.89,"Nord Anglia Education, Inc."
+152,Siusan Wilding,mastercard,431.24,$431.24,"Penns Woods Bancorp, Inc."
+153,Dickie Sked,mastercard,484.44,$484.44,"Urban One, Inc. "
+154,Belva Robion,mastercard,253.0,$253.00,"SharpSpring, Inc."
+155,Marius Checo,mastercard,542.62,$542.62,Seadrill Partners LLC
+156,Derrick Gravey,mastercard,881.88,$881.88,Astrotech Corporation
+157,Nickolas Lenin,mastercard,134.09,$134.09,General Electric Capital Corporation
+158,Ravi Halahan,mastercard,115.16,$115.16,"Twenty-First Century Fox, Inc."
+159,Toddie MacKeller,mastercard,146.19,$146.19,Vonage Holdings Corp.
+160,Chick Splevings,mastercard,245.04,$245.04,Ryanair Holdings plc
+161,Susanna Tille,mastercard,817.76,$817.76,"SuperCom, Ltd."
+162,Jilly Underdown,mastercard,535.07,$535.07,"Opexa Therapeutics, Inc."
+163,Ira Eisak,mastercard,992.73,$992.73,Atossa Genetics Inc.
+164,Sarette O'Dogherty,mastercard,919.85,$919.85,"Carter's, Inc."
+165,Kerry Timlin,mastercard,223.12,$223.12,Kate Spade & Company
+166,Jedidiah Pennacci,mastercard,974.95,$974.95,"Expedia, Inc."
+167,Rafaela Tuft,mastercard,388.08,$388.08,"New Ireland Fund, Inc. (The)"
+168,Arel Philbin,mastercard,731.15,$731.15,"Perfumania Holdings, Inc"
+169,Alexandr McLeod,mastercard,637.02,$637.02,Adaptimmune Therapeutics plc
+170,Luz Cisar,mastercard,816.51,$816.51,Deutsche Bank AG
+171,Claudio Coggins,mastercard,380.22,$380.22,"Guaranty Bancshares, Inc."
+172,Riobard Wimbush,mastercard,954.34,$954.34,Nomad Foods Limited
+173,Alexandros Sills,mastercard,998.67,$998.67,Pacific Special Acquisition Corp.
+174,Consalve Antos,mastercard,491.09,$491.09,DCT Industrial Trust Inc
+175,Blayne Stratley,mastercard,554.07,$554.07,CTI BioPharma Corp.
+176,Frederik Marini,mastercard,310.5,$310.50,Sibanye Gold Limited
+177,Vere Gutridge,mastercard,187.69,$187.69,"Archrock, Inc."
+178,Seth Brantzen,mastercard,656.56,$656.56,HomeTown Bankshares Corporation
+179,Osmond Rauprich,mastercard,614.26,$614.26,DRDGOLD Limited
+180,Evvy Dabney,mastercard,723.23,$723.23,Cardtronics plc
+181,Phillipp Llewelly,mastercard,277.83,$277.83,M B T Financial Corp
+182,Bennie D'Ambrogio,mastercard,745.34,$745.34,Brookfield DTLA Inc.
+183,Kizzee Littlecote,mastercard,319.82,$319.82,Aircastle Limited
+184,Allianora Biffin,mastercard,723.86,$723.86,Intel Corporation
+185,Elyse Dighton,mastercard,693.19,$693.19,Cincinnati Financial Corporation
+186,Vladamir Asquez,mastercard,803.79,$803.79,Tri Continental Corporation
+187,Paddy Du Barry,mastercard,566.8,$566.80,"Meridian Bancorp, Inc."
+188,Gino Rann,mastercard,226.06,$226.06,"First Financial Northwest, Inc."
+189,Sunny Looks,mastercard,136.98,$136.98,Amaya Inc.
+190,Robbi Jacmard,mastercard,346.2,$346.20,"Quanta Services, Inc."
+191,Kalil Georgot,mastercard,324.48,$324.48,"Cambium Learning Group, Inc."
+192,Bendix Hughlock,mastercard,582.48,$582.48,Allegion plc
+193,Shep Agate,mastercard,777.58,$777.58,"Donnelley Financial Solutions, Inc."
+194,Tam Pedwell,mastercard,476.96,$476.96,Wintrust Financial Corporation
+195,Gizela Naismith,mastercard,803.31,$803.31,Gladstone Capital Corporation
+196,Evangelia Breazeall,mastercard,497.49,$497.49,Adesto Technologies Corporation
+197,Rooney Crampton,mastercard,66.25,$66.25,SPDR Dorsey Wright Fixed Income Allocation ETF
+198,Shelba Caw,mastercard,757.42,$757.42,"American Assets Trust, Inc."
+199,Rickie Londer,mastercard,913.61,$913.61,R.R. Donnelley & Sons Company
+200,Beulah Pauletti,mastercard,848.25,$848.25,Ashford Hospitality Trust Inc
+201,Ileana Dawks,mastercard,957.75,$957.75,"Hollysys Automation Technologies, Ltd."
+202,Deck Drinkhall,mastercard,248.94,$248.94,"Ohr Pharmaceuticals, Inc."
+203,Alford Ahrens,mastercard,198.47,$198.47,"EnLink Midstream Partners, LP"
+204,Candace Pennaman,mastercard,433.97,$433.97,Brunswick Corporation
+205,Noemi Stonehouse,mastercard,560.2,$560.20,Grupo Aval Acciones y Valores S.A.
+206,Abelard Penvarne,mastercard,680.38,$680.38,Ellington Residential Mortgage REIT
+207,Darci Start,mastercard,644.8,$644.80,Global X Social Media ETF
+208,Elmo Jevons,mastercard,549.03,$549.03,"NetApp, Inc."
+209,Levon Dougary,mastercard,402.77,$402.77,"Reinsurance Group of America, Incorporated"
+210,Elsie Doige,mastercard,688.79,$688.79,ZIOPHARM Oncology Inc
+211,Lin Forrestill,mastercard,219.06,$219.06,First Trust Rising Dividend Achievers ETF
+212,Jeanie Amsberger,mastercard,12.49,$12.49,MainStay DefinedTerm Municipal Opportunities Fund
+213,Gilda Kestian,mastercard,756.25,$756.25,"Allied Healthcare Products, Inc."
+214,Margarete Worland,mastercard,284.78,$284.78,Visteon Corporation
+215,Turner Ughelli,mastercard,426.92,$426.92,Eaton Vance High Income 2021 Target Term Trust
+216,Kelvin Van Dijk,mastercard,477.12,$477.12,Zions Bancorporation
+217,Worthy Dodman,mastercard,893.66,$893.66,Sotherly Hotels Inc.
+218,Allyson Salzen,mastercard,207.3,$207.30,United Insurance Holdings Corp.
+219,Calida Boake,mastercard,274.72,$274.72,"Consumer Portfolio Services, Inc."
+220,Nolan Aldhous,mastercard,653.23,$653.23,Prospect Capital Corporation
+221,Marleah Setterington,mastercard,24.59,$24.59,Sterling Bancorp
+222,Meridel Plaskett,mastercard,533.84,$533.84,MSG Networks Inc.
+223,Arlana Portinari,mastercard,96.85,$96.85,"PennyMac Financial Services, Inc."
+224,Joel Ainscow,mastercard,337.25,$337.25,"Halozyme Therapeutics, Inc."
+225,Agnella Franzewitch,mastercard,657.08,$657.08,Modern Media Acquisition Corp.
+226,Lindsey Gillet,mastercard,534.19,$534.19,Universal Corporation
+227,Bette Nowill,mastercard,183.98,$183.98,Kimbell Royalty Partners
+228,Tracie Rebert,mastercard,772.08,$772.08,"Tyson Foods, Inc."
+229,Megen Hafner,mastercard,456.49,$456.49,JMP Group LLC
+230,Gustavus Barensen,mastercard,852.31,$852.31,Histogenics Corporation
+231,Ninette Latchmore,mastercard,232.85,$232.85,InVivo Therapeutics Holdings Corp.
+232,Elora Shires,mastercard,648.69,$648.69,John Hancock Financial Opportunities Fund
+233,Alaric O'Scannill,mastercard,166.24,$166.24,Petroquest Energy Inc
+234,Lon MacCracken,mastercard,51.28,$51.28,DRDGOLD Limited
+235,Flin Andresen,mastercard,107.59,$107.59,J P Morgan Chase & Co
+236,Andre Gilfillan,mastercard,427.24,$427.24,Oi S.A.
+237,Dottie Cozins,mastercard,108.28,$108.28,World Fuel Services Corporation
+238,Kyle Haskayne,mastercard,665.24,$665.24,Sanchez Energy Corporation
+239,Roxy Girvin,mastercard,228.45,$228.45,"Axsome Therapeutics, Inc."
+240,Laurent Leban,mastercard,342.15,$342.15,PowerShares DWA Basic Materials Momentum Portfolio
+241,Marisa Spawforth,mastercard,355.9,$355.90,Bank of America Corporation
+242,Carilyn Matzel,mastercard,737.77,$737.77,ASML Holding N.V.
+243,Heda Collicott,mastercard,802.99,$802.99,Janus Henderson Small Cap Growth Alpha ETF
+244,Allis Strank,mastercard,873.22,$873.22,Turtle Beach Corporation
+245,Geri Pavlik,mastercard,315.93,$315.93,First Trust RBA American Industrial Renaissance ETF
+246,Alwin Labrom,mastercard,959.12,$959.12,"Community Bank System, Inc."
+247,Bax Banville,mastercard,74.32,$74.32,The First of Long Island Corporation
+248,Kaia Touzey,mastercard,27.43,$27.43,Bank of Commerce Holdings (CA)
+249,Arni Clemmett,mastercard,419.57,$419.57,Lifevantage Corporation
+250,Jasmina Biskup,mastercard,396.76,$396.76,Invitae Corporation
+251,Jamey McClurg,mastercard,234.1,$234.10,"Tyler Technologies, Inc."
+252,Alvan Hucke,mastercard,149.28,$149.28,Kayne Anderson MLP Investment Company
+253,Jenny Emmer,mastercard,520.18,$520.18,Nuveen Municipal 2021 Target Term Fund
+254,Hurleigh Triggle,mastercard,383.4,$383.40,"Innovative Solutions and Support, Inc."
+255,Ferrel Gratrix,mastercard,295.71,$295.71,"Cellectar Biosciences, Inc."
+256,Garrek Niave,mastercard,193.47,$193.47,Embotelladora Andina S.A.
+257,Armin Obin,mastercard,68.14,$68.14,Keysight Technologies Inc.
+258,Dominic Fallows,mastercard,895.81,$895.81,Echelon Corporation
+259,Jennica Aleswell,mastercard,986.07,$986.07,First Trust Hong Kong AlphaDEX Fund
+260,Bryce Parvin,mastercard,811.48,$811.48,QAD Inc.
+261,Nissy Perllman,mastercard,97.68,$97.68,First Bancorp
+262,Aeriel Mepham,mastercard,432.51,$432.51,"Walgreens Boots Alliance, Inc."
+263,Elisabet Bigly,mastercard,361.33,$361.33,Wells Fargo & Company
+264,Hermie Vader,mastercard,460.32,$460.32,Yulong Eco-Materials Limited
+265,Ludovika Worgan,mastercard,756.57,$756.57,Changyou.com Limited
+266,Maurie Turbat,mastercard,630.62,$630.62,"ARI Network Services, Inc."
+267,Brock Rolance,mastercard,838.42,$838.42,"AptarGroup, Inc."
+268,Edythe McKyrrelly,mastercard,820.49,$820.49,PIMCO California Municipal Income Fund III
+269,Codie Everwin,mastercard,306.77,$306.77,Crescent Point Energy Corporation
+270,Federico Talby,mastercard,390.6,$390.60,Walter Investment Management Corp.
+271,Feliks Barmadier,mastercard,735.21,$735.21,Apple Inc.
+272,Randa Kelemen,mastercard,249.69,$249.69,Newmont Mining Corporation
+273,Franky Wallice,mastercard,167.08,$167.08,PureFunds ETFx HealthTech ETF
+274,Bernette Vautin,mastercard,455.4,$455.40,BlackRock Resources
+275,Willie Swadon,mastercard,351.2,$351.20,AngloGold Ashanti Limited
+276,Celene Serjeantson,mastercard,739.44,$739.44,"FTI Consulting, Inc."
+277,Jakob Gymlett,mastercard,360.95,$360.95,VOXX International Corporation
+278,Adara Harteley,mastercard,311.79,$311.79,"Monro Muffler Brake, Inc."
+279,Lori Lowdwell,mastercard,323.64,$323.64,Pioneer Natural Resources Company
+280,Karalynn Sabate,mastercard,35.88,$35.88,Seneca Foods Corp.
+281,Dag Janicki,mastercard,358.3,$358.30,Hilltop Holdings Inc.
+282,Weston Creffield,mastercard,404.4,$404.40,Avenue Income Credit Strategies Fund
+283,Alfie Bearcock,mastercard,39.83,$39.83,"Global Ship Lease, Inc."
+284,Ingemar Lortzing,mastercard,793.6,$793.60,"Williams-Sonoma, Inc."
+285,Tye de Banke,mastercard,926.6,$926.60,"First Financial Bankshares, Inc."
+286,Zared Harness,mastercard,315.42,$315.42,Radcom Ltd.
+287,Eulalie Dowglass,mastercard,101.43,$101.43,Icahn Enterprises L.P.
+288,Wendall Leighfield,mastercard,338.49,$338.49,"Microvision, Inc."
+289,Alexis Furminger,mastercard,857.37,$857.37,"AmTrust Financial Services, Inc."
+290,Heath Landis,mastercard,80.81,$80.81,Verso Corporation
+291,Barny Blackley,mastercard,714.79,$714.79,"iKang Healthcare Group, Inc."
+292,Garrot Newnham,mastercard,617.85,$617.85,"Colony NorthStar, Inc."
+293,Horton Cranstoun,mastercard,790.33,$790.33,Zions Bancorporation
+294,Aliza Houlahan,mastercard,285.11,$285.11,Formula Systems (1985) Ltd.
+295,Pernell Chittem,mastercard,490.8,$490.80,"Sigma Labs, Inc."
+296,Forrester Forryan,mastercard,231.65,$231.65,"PRA Health Sciences, Inc."
+297,Gillan Filpo,mastercard,420.18,$420.18,Aflac Incorporated
+298,Dunn Bone,mastercard,606.95,$606.95,Arlington Asset Investment Corp
+299,Winfield Boggas,mastercard,576.52,$576.52,Nuveen Real Asset Income and Growth Fund
+300,Herc Constance,mastercard,401.56,$401.56,RAIT Financial Trust
+301,Kelci Maharey,mastercard,297.57,$297.57,"Editas Medicine, Inc."
+302,Karim Bocking,mastercard,986.64,$986.64,"Blackrock MuniVest Fund II, Inc."
+303,Iona Lesslie,mastercard,489.67,$489.67,"GlassBridge Enterprises, Inc."
+304,Morgun Renak,mastercard,704.67,$704.67,J P Morgan Chase & Co
+305,Kennie Otter,mastercard,783.73,$783.73,"MRV Communications, Inc."
+306,Mile Deluce,mastercard,679.16,$679.16,Union Bankshares Corporation
+307,Hayyim Kuschek,mastercard,78.54,$78.54,Banco De Chile
+308,Cary Warburton,mastercard,289.67,$289.67,Anworth Mortgage Asset  Corporation
+309,Blinny Bullimore,mastercard,779.56,$779.56,"Coach, Inc."
+310,Vikky Ayrs,mastercard,344.65,$344.65,"Intevac, Inc."
+311,Fee Woolfenden,mastercard,738.85,$738.85,Bridgford Foods Corporation
+312,Valeda Rotchell,mastercard,56.92,$56.92,Oxford Lane Capital Corp.
+313,Owen Askin,mastercard,764.53,$764.53,E*TRADE Financial Corporation
+314,Rosemonde Stitch,mastercard,793.46,$793.46,"Franklin Resources, Inc."
+315,Jodie De Benedetti,mastercard,488.96,$488.96,Andina Acquisition Corp. II
+316,Ruttger Campbell,mastercard,933.47,$933.47,"Matson, Inc."
+317,Barbaraanne Meriguet,mastercard,415.32,$415.32,Gabelli Utility Trust (The)
+318,Jackie Robardet,mastercard,667.39,$667.39,"Banc of California, Inc."
+319,Millard Tallach,mastercard,595.03,$595.03,W.R. Berkley Corporation
+320,Catina Shipman,mastercard,582.37,$582.37,Hubbell Inc
+321,Buffy Argontt,mastercard,840.24,$840.24,Kewaunee Scientific Corporation
+322,Fulvia Corsar,mastercard,981.39,$981.39,"Inter Parfums, Inc."
+323,Alexandro Parnell,mastercard,761.54,$761.54,"Forterra, Inc."
+324,Fianna Rugiero,mastercard,896.18,$896.18,PTC Inc.
+325,Tailor Selborne,mastercard,913.28,$913.28,Star Bulk Carriers Corp.
+326,Filia Pettendrich,mastercard,297.17,$297.17,First Trust China AlphaDEX Fund
+327,Elisabet Mangin,mastercard,871.28,$871.28,"PS Business Parks, Inc."
+328,Aila Freestone,mastercard,926.93,$926.93,Calamos Dynamic Convertible & Income Fund
+329,Ardra Findlater,mastercard,219.99,$219.99,Arbor Realty Trust
+330,Brice Martignon,mastercard,301.82,$301.82,"Washington Federal, Inc."
+331,Winnifred Waldram,mastercard,279.82,$279.82,CymaBay Therapeutics Inc.
+332,Glynis Gook,mastercard,464.28,$464.28,"Becton, Dickinson and Company"
+333,Shirl McLarnon,mastercard,679.61,$679.61,VelocityShares Daily Inverse VIX Medium-Term ETN
+334,Perrine Muller,mastercard,879.45,$879.45,"Otonomy, Inc."
+335,Robbert Seacombe,mastercard,263.29,$263.29,Diageo plc
+336,Michaelina Twiddy,mastercard,896.74,$896.74,"Omnicell, Inc."
+337,Laurianne MacGraith,mastercard,590.0,$590.00,Charter Financial Corp.
+338,Carlee Cristou,mastercard,843.34,$843.34,"First Business Financial Services, Inc."
+339,Monro Culley,mastercard,10.85,$10.85,Eaton Vance Short Diversified Income Fund
+340,Cathlene Kubek,mastercard,571.12,$571.12,"Acasti Pharma, Inc."
+341,Perla Prahl,mastercard,577.04,$577.04,WPCS International Incorporated
+342,Margarette Crennan,mastercard,671.67,$671.67,"Honda Motor Company, Ltd."
+343,Eduard Palfreyman,mastercard,23.53,$23.53,OFS Capital Corporation
+344,Libby Longman,mastercard,348.27,$348.27,Alcoa Corporation
+345,Bryan Doxsey,mastercard,584.12,$584.12,Triangle Capital Corporation
+346,Broddy Mackleden,mastercard,500.34,$500.34,"PFSweb, Inc."
+347,Claudie Crowthe,mastercard,96.89,$96.89,Esterline Technologies Corporation
+348,Newton Westcott,mastercard,874.09,$874.09,"Ramaco Resources, Inc."
+349,Shoshanna Attard,mastercard,125.25,$125.25,"NanoString Technologies, Inc."
+350,Roger Sandaver,mastercard,858.12,$858.12,Covisint Corporation
+351,Mackenzie McClosh,mastercard,676.69,$676.69,Bank of America Corporation
+352,Thom Kas,mastercard,415.07,$415.07,"Benefitfocus, Inc."
+353,Jared Bullant,mastercard,488.19,$488.19,CHS Inc
+354,Willamina Halfhide,mastercard,59.91,$59.91,Alcobra Ltd.
+355,Sofia Noah,mastercard,792.76,$792.76,GATX Corporation
+356,Huntington Eck,mastercard,668.54,$668.54,"Stratasys, Ltd."
+357,Mart Teliga,mastercard,380.7,$380.70,"Healthcare Trust of America, Inc."
+358,Curry Mitkov,mastercard,792.47,$792.47,Forward Pharma A/S
+359,Farly De Dei,mastercard,207.96,$207.96,Balchem Corporation
+360,Heath Pickrill,mastercard,920.71,$920.71,Ryanair Holdings plc
+361,Florentia Rouf,mastercard,549.51,$549.51,Coca-Cola European Partners plc
+362,Jasen Dable,mastercard,643.51,$643.51,"Windstream Holdings, Inc."
+363,Eba Broxton,mastercard,280.68,$280.68,"Delaware Investments Dividend & Income Fund, Inc."
+364,Lydie Simond,mastercard,144.21,$144.21,Ashford Hospitality Trust Inc
+365,Caressa Robinett,mastercard,815.14,$815.14,The Carlyle Group L.P.
+366,Amos Penas,mastercard,198.67,$198.67,"Fossil Group, Inc."
+367,Colet Keyes,mastercard,39.34,$39.34,Tractor Supply Company
+368,Brittan Masson,mastercard,78.08,$78.08,"Plains All American Pipeline, L.P."
+369,Eliot McKeurtan,mastercard,448.0,$448.00,"Insperity, Inc."
+370,Iormina Ounsworth,mastercard,417.92,$417.92,John Hancock Financial Opportunities Fund
+371,Dorree Jest,mastercard,190.17,$190.17,eBay Inc.
+372,Kati Lefever,mastercard,17.66,$17.66,Celgene Corporation
+373,Rogers Whitten,mastercard,412.85,$412.85,At Home Group Inc.
+374,Rubin Guerreru,mastercard,603.77,$603.77,"Selective Insurance Group, Inc."
+375,Royce Farmery,mastercard,133.52,$133.52,Capitol Acquisition Corp. III
+376,Judith Osgar,mastercard,909.08,$909.08,VOC Energy Trust
+377,Georgine Rushman,mastercard,543.41,$543.41,"Digital Realty Trust, Inc."
+378,La verne Aldwich,mastercard,68.06,$68.06,United States Cellular Corporation
+379,Cher Greasty,mastercard,739.99,$739.99,"Blackrock Enhanced Government Fund, Inc"
+380,Onfre Yeardley,mastercard,485.15,$485.15,Ramco-Gershenson Properties Trust
+381,Yul Bentick,mastercard,287.99,$287.99,St. Joe Company (The)
+382,Viv Kelmere,mastercard,121.51,$121.51,"Clearside Biomedical, Inc."
+383,Sadella Thresh,mastercard,445.93,$445.93,"Rollins, Inc."
+384,Ignace Shivell,mastercard,522.58,$522.58,"Arrow Electronics, Inc."
+385,Glory Impey,mastercard,588.59,$588.59,Comerica Incorporated
+386,Lorine McNysche,mastercard,190.24,$190.24,Vince Holding Corp.
+387,Abdel Collingworth,mastercard,704.65,$704.65,Kimco Realty Corporation
+388,Evonne Twigge,mastercard,114.24,$114.24,First Trust Europe AlphaDEX Fund
+389,Job Sheere,mastercard,109.49,$109.49,ROBO Global Robotics and Automation Index ETF
+390,Nevil Snary,mastercard,151.48,$151.48,Endo International plc
+391,Brandise Calken,mastercard,58.42,$58.42,Hersha Hospitality Trust
+392,Camella Rembrant,mastercard,191.79,$191.79,Kimberly-Clark Corporation
+393,Ade Poveleye,mastercard,44.01,$44.01,Medovex Corp.
+394,Freddie Opfer,mastercard,641.0,$641.00,"Taubman Centers, Inc."
+395,Keely Giamuzzo,mastercard,753.53,$753.53,"First Savings Financial Group, Inc."
+396,Van Comino,mastercard,309.78,$309.78,"Castlight Health, inc."
+397,Homerus Feye,mastercard,314.37,$314.37,Archer-Daniels-Midland Company
+398,Yolane Amps,mastercard,218.36,$218.36,Lannett Co Inc
+399,Keefe Lent,mastercard,204.26,$204.26,"Vishay Precision Group, Inc."
+400,Rozanne Spreckley,mastercard,672.59,$672.59,"PulteGroup, Inc."
+401,Marleah Bigrigg,mastercard,245.93,$245.93,BRT Apartments Corp.
+402,Dal Mudge,mastercard,628.52,$628.52,"Synthetic Fixed-Income Securities, Inc."
+403,Estrellita Camoletto,mastercard,533.38,$533.38,Hovnanian Enterprises Inc
+404,Darryl Zanini,mastercard,437.28,$437.28,"GlycoMimetics, Inc."
+405,Bob Estoile,mastercard,963.62,$963.62,Global Payments Inc.
+406,Brockie De Freyne,mastercard,636.17,$636.17,"Owens-Illinois, Inc."
+407,Amery Sheeres,mastercard,255.93,$255.93,"ING Group, N.V."
+408,Allyce Cutress,mastercard,688.27,$688.27,AlphaMark Actively Managed Small Cap ETF
+409,Christoph Dummigan,mastercard,203.51,$203.51,DURECT Corporation
+410,Mureil Donativo,mastercard,758.62,$758.62,CafePress Inc.
+411,Laurena Furney,mastercard,723.55,$723.55,"Antares Pharma, Inc."
+412,Steffen Cisson,mastercard,520.95,$520.95,Global Sources Ltd.
+413,Delly Aisman,mastercard,832.87,$832.87,Tiffany & Co.
+414,Emilie Borlease,mastercard,209.66,$209.66,"Onvia, Inc."
+415,Penelopa Blamey,mastercard,984.19,$984.19,"First Midwest Bancorp, Inc."
+416,Crosby Yashanov,mastercard,86.94,$86.94,"Rennova Health, Inc."
+417,Sibella Lindenstrauss,mastercard,204.49,$204.49,Nuveen Floating Rate Income Fund
+418,Kaia Hercock,mastercard,967.19,$967.19,"Helmerich & Payne, Inc."
+419,Roman Jacmar,mastercard,61.29,$61.29,Tocagen Inc.
+420,Janey Free,mastercard,691.33,$691.33,"Cullen/Frost Bankers, Inc."
+421,Sheryl Archbutt,mastercard,462.51,$462.51,"Etsy, Inc."
+422,Sheree Kiellor,mastercard,713.75,$713.75,Marathon Oil Corporation
+423,Jervis Conaghy,mastercard,653.1,$653.10,"ALJ Regional Holdings, Inc."
+424,Alexandro Jantot,mastercard,148.55,$148.55,POSCO
+425,Boycie Muskett,mastercard,205.15,$205.15,Duke Energy Corporation
+426,Gabi Nisby,mastercard,908.97,$908.97,Penn Virginia Corporation
+427,Ive Beuscher,mastercard,179.53,$179.53,PartnerRe Ltd.
+428,Morgen Cheesman,mastercard,438.44,$438.44,"The Chefs' Warehouse, Inc."
+429,Axe Winfindine,mastercard,342.62,$342.62,Silvercrest Asset Management Group Inc.
+430,Glenna Reedy,mastercard,273.69,$273.69,Banco Santander Brasil SA
+431,Ronny Kennion,mastercard,991.66,$991.66,"Nuveen California Municipal Value Fund, Inc."
+432,Kippar Penwell,mastercard,245.09,$245.09,MER Telemanagement Solutions Ltd.
+433,Inglis Boxe,mastercard,344.05,$344.05,Hingham Institution for Savings
+434,Harv Stealey,mastercard,42.05,$42.05,Enterprise Bancorp Inc
+435,Ralf Bloomfield,mastercard,809.1,$809.10,"VistaGen Therapeutics, Inc."
+436,Maxim Gianullo,mastercard,180.59,$180.59,"Goldman Sachs Group, Inc. (The)"
+437,Rebbecca de Juares,mastercard,462.79,$462.79,Covanta Holding Corporation
+438,Benita Colman,mastercard,306.67,$306.67,Actuant Corporation
+439,Cynde Clemenza,mastercard,71.06,$71.06,Dynagas LNG Partners LP
+440,Loralee Swalwel,mastercard,586.75,$586.75,"Mid-America Apartment Communities, Inc."
+441,Leonid Dumberell,mastercard,149.78,$149.78,iShares MSCI Emerging Markets Asia Index Fund
+442,Dawn Petyankin,mastercard,128.47,$128.47,Barclays Inverse US Treasury Composite ETN
+443,Bernadine Lillico,mastercard,561.89,$561.89,Karyopharm Therapeutics Inc.
+444,Kelcie Wines,mastercard,783.41,$783.41,ProPetro Holding Corp.
+445,Heloise McNeish,mastercard,549.17,$549.17,WD-40 Company
+446,Mei De Bischof,mastercard,542.33,$542.33,Acxiom Corporation
+447,Phillida Kleisle,mastercard,67.15,$67.15,Gulfport Energy Corporation
+448,Cornie Poizer,mastercard,741.59,$741.59,"Cellectar Biosciences, Inc."
+449,Antonie Rimell,mastercard,817.93,$817.93,iShares S&P Emerging Markets Infrastructure Index Fund
+450,Lorianne Fellow,mastercard,442.17,$442.17,C&F Financial Corporation
+451,Edvard Attfield,mastercard,153.63,$153.63,International Bancshares Corporation
+452,Nealon Sotworth,mastercard,763.64,$763.64,Sohu.com Inc.
+453,Conny Gorsse,mastercard,901.31,$901.31,"Interface, Inc."
+454,Miof mela Railton,mastercard,680.37,$680.37,"SunCoke Energy Partners, L.P."
+455,Clywd Turvie,mastercard,634.82,$634.82,Vector Group Ltd.
+456,Clio Stepto,mastercard,527.49,$527.49,Kayne Anderson Acquisition Corp.
+457,Lonni Martinson,mastercard,549.08,$549.08,KLX Inc.
+458,Krissie Yvens,mastercard,620.47,$620.47,"The First Bancshares, Inc."
+459,Andrea Perelli,mastercard,575.59,$575.59,First Trust BICK Index Fund
+460,Valene MacDirmid,mastercard,386.89,$386.89,"RadNet, Inc."
+461,Bobbie Mossom,mastercard,235.53,$235.53,Eaton Vance Tax-Advantaged Bond
+462,Price Vickerman,mastercard,233.63,$233.63,TearLab Corporation
+463,Madelena Geldeard,mastercard,454.7,$454.70,Repros Therapeutics Inc.
+464,Alaster Lehon,mastercard,80.62,$80.62,"Second Sight Medical Products, Inc."
+465,Lorrin Goaley,mastercard,14.49,$14.49,CMS Energy Corporation
+466,Rudolf Blackeby,mastercard,318.43,$318.43,BLDRS Asia 50 ADR Index Fund
+467,Gabriela Doncaster,mastercard,285.91,$285.91,MEDIFAST INC
+468,Lenci Murt,mastercard,680.86,$680.86,"Heritage-Crystal Clean, Inc."
+469,Judy Timcke,mastercard,121.5,$121.50,"K2M Group Holdings, Inc."
+470,Felisha Popplestone,mastercard,606.61,$606.61,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.
+471,Sasha Demke,mastercard,2.2,$2.20,"Dupont Fabros Technology, Inc."
+472,Aarika Mintram,mastercard,916.41,$916.41,Calamos Dynamic Convertible & Income Fund
+473,Dinnie Reddings,mastercard,710.79,$710.79,Sunrun Inc.
+474,Bert Jobin,mastercard,166.91,$166.91,"Park City Group, Inc."
+475,Lin Josskoviz,mastercard,968.24,$968.24,"Achaogen, Inc."
+476,Gustie Humby,mastercard,38.39,$38.39,Fibria Celulose S.A.
+477,Cissy Dooman,mastercard,306.45,$306.45,Approach Resources Inc.
+478,Tabby Neller,mastercard,597.84,$597.84,Fly Leasing Limited
+479,Kipp Daoust,mastercard,596.32,$596.32,Investors Real Estate Trust
+480,Richard Haselhurst,mastercard,834.39,$834.39,"Obalon Therapeutics, Inc."
+481,Spenser Ginie,mastercard,314.12,$314.12,Janus Henderson Small Cap Growth Alpha ETF
+482,Sherry Roset,mastercard,88.23,$88.23,"Tempur Sealy International, Inc."
+483,Pierson Piggin,mastercard,624.87,$624.87,"Summit Hotel Properties, Inc."
+484,Devin Gaynes,mastercard,702.82,$702.82,BioLineRx Ltd.
+485,Hector Gulberg,mastercard,962.86,$962.86,Seanergy Maritime Holdings Corp
+486,Selene Jost,mastercard,207.49,$207.49,"JD.com, Inc."
+487,Roselle Satchell,mastercard,773.04,$773.04,"Badger Meter, Inc."
+488,Bobby Hagan,mastercard,570.16,$570.16,Eaton Vance NextShares Trust
+489,Rhona Allery,mastercard,313.52,$313.52,eGain Corporation
+490,Chrissy Maine,mastercard,929.32,$929.32,State Street Corporation
+491,Jobi Malyon,mastercard,581.12,$581.12,Philip Morris International Inc
+492,Lainey Salasar,mastercard,77.84,$77.84,"Stage Stores, Inc."
+493,Kimble Gullberg,mastercard,813.59,$813.59,"Hartford Financial Services Group, Inc. (The)"
+494,Slade Lille,mastercard,381.25,$381.25,Silicom Ltd
+495,Stesha Pacey,mastercard,971.45,$971.45,"TC PipeLines, LP"
+496,Dougy MacIlraith,mastercard,245.57,$245.57,iStar Financial Inc.
+497,Candy Penman,mastercard,450.46,$450.46,"Gaming and Leisure Properties, Inc."
+498,Claire Boddy,mastercard,629.12,$629.12,ePlus inc.
+499,Margalo Perkis,mastercard,632.34,$632.34,Harmony Gold Mining Company Limited
+500,Rip Keelinge,mastercard,334.76,$334.76,United States Cellular Corporation
+501,Yul Craze,mastercard,321.99,$321.99,"Soligenix, Inc."
+502,Aldo Warlowe,mastercard,921.06,$921.06,"1-800 FLOWERS.COM, Inc."
+503,Corella Cradey,mastercard,425.72,$425.72,The Middleby Corporation
+504,Liuka Lautie,mastercard,801.54,$801.54,Xylem Inc.
+505,Jimmy Renn,mastercard,843.25,$843.25,"PPG Industries, Inc."
+506,Tamar Furmage,mastercard,425.36,$425.36,Vonage Holdings Corp.
+507,Stanly Ramalhete,mastercard,310.39,$310.39,"Colony NorthStar, Inc."
+508,Elle Blofeld,mastercard,374.78,$374.78,Landec Corporation
+509,Alix Fullstone,mastercard,298.75,$298.75,"Diplomat Pharmacy, Inc."
+510,Berna MacRedmond,mastercard,55.77,$55.77,American Woodmark Corporation
+511,Jillene Waine,mastercard,805.4,$805.40,Banco Santander Chile
+512,Randolph Slad,mastercard,578.3,$578.30,Telefonica Brasil S.A.
+513,Dallis Lamden,mastercard,699.49,$699.49,"AAC Holdings, Inc."
+514,Bryana Curnnokk,mastercard,587.96,$587.96,"Nivalis Therapeutics, Inc."
+515,Kerianne Hyland,mastercard,298.72,$298.72,"H&R Block, Inc."
+516,Melody Peart,mastercard,879.22,$879.22,"Host Hotels & Resorts, Inc."
+517,Edwin Bus,mastercard,232.46,$232.46,ENGlobal Corporation
+518,Irvine Eilert,mastercard,164.97,$164.97,Physicians Realty Trust
+519,Katherina Tertre,mastercard,72.51,$72.51,"Trevena, Inc."
+520,Alis Vittet,mastercard,132.97,$132.97,"Ocean Bio-Chem, Inc."
+521,Quillan Scough,mastercard,841.77,$841.77,Qwest Corporation
+522,Bertie Davitti,mastercard,594.17,$594.17,Kemper Corporation
+523,Siward Worts,mastercard,925.41,$925.41,Student Transportation Inc
+524,Hermon Morman,mastercard,474.33,$474.33,Loncar Cancer Immunotherapy ETF
+525,Annabal Eldritt,mastercard,865.59,$865.59,Taylor Morrison Home Corporation
+526,Taryn Scarlett,mastercard,372.32,$372.32,"Gabelli Convertible and Income Securities Fund, Inc. (The)"
+527,Udall Denkin,mastercard,117.85,$117.85,ContraVir Pharmaceuticals Inc
+528,Alica Pickles,mastercard,170.85,$170.85,"Extreme Networks, Inc."
+529,Ernestine Hukin,mastercard,514.01,$514.01,Fifth Street Finance Corp.
+530,Aileen Howford,mastercard,660.67,$660.67,Capital One Financial Corporation
+531,Joann Rhead,mastercard,750.37,$750.37,"Tortoise MLP Fund, Inc."
+532,Jareb Matherson,mastercard,183.38,$183.38,"Goldman Sachs Group, Inc. (The)"
+533,Marline Mazzeo,mastercard,387.45,$387.45,"Tabula Rasa HealthCare, Inc."
+534,Elene Sandeland,mastercard,1.26,$1.26,Ares Commercial Real Estate Corporation
+535,Leif Striker,mastercard,154.52,$154.52,"Black Stone Minerals, L.P."
+536,Arda Lough,mastercard,469.77,$469.77,"Universal Health Services, Inc."
+537,Murielle Dabes,mastercard,263.24,$263.24,Scorpio Tankers Inc.
+538,Shep Huscroft,mastercard,232.59,$232.59,"Morgan Stanley Asia-Pacific Fund, Inc."
+539,Anallese Pavlishchev,mastercard,784.61,$784.61,Marvell Technology Group Ltd.
+540,Marena Digle,mastercard,784.51,$784.51,Mosaic Company (The)
+541,Giacopo Hardage,mastercard,546.14,$546.14,"HarborOne Bancorp, Inc."
+542,Nichole Gaukrodge,mastercard,339.72,$339.72,MPLX LP
+543,Cliff Kinlock,mastercard,84.01,$84.01,Arrow Financial Corporation
+544,Harry Spellward,mastercard,589.71,$589.71,ICON plc
+545,Babbette Reignard,mastercard,140.91,$140.91,"Papa John's International, Inc."
+546,Flin O'Farris,mastercard,931.61,$931.61,Mosaic Company (The)
+547,Lona Grieve,mastercard,658.41,$658.41,"Titan International, Inc."
+548,Gawen Roff,mastercard,357.25,$357.25,"Ooma, Inc."
+549,Jazmin Kilshaw,mastercard,723.23,$723.23,"PIMCO Strategic Income Fund, Inc."
+550,Craig Chesman,mastercard,629.14,$629.14,Capital One Financial Corporation
+551,Janie Immings,mastercard,723.36,$723.36,"Akorn, Inc."
+552,Miguel Senior,mastercard,375.34,$375.34,"Argo Group International Holdings, Ltd."
+553,Nert Wasbrough,mastercard,453.99,$453.99,PowerShares S&P SmallCap Materials Portfolio
+554,Weston Gloster,mastercard,899.73,$899.73,"Allete, Inc."
+555,Padraig Moreman,mastercard,270.95,$270.95,Summit State Bank
+556,Forester Charity,mastercard,221.81,$221.81,MSG Networks Inc.
+557,Benn Wearing,mastercard,996.22,$996.22,"Centennial Resource Development, Inc."
+558,Ivette Cattrell,mastercard,726.37,$726.37,Amgen Inc.
+559,Anne-marie Golledge,mastercard,610.74,$610.74,Microsoft Corporation
+560,Clevey Iozefovich,mastercard,748.71,$748.71,Park Sterling Corporation
+561,Cybill Reihill,mastercard,670.9,$670.90,"NexPoint Residential Trust, Inc."
+562,Georgi Whenman,mastercard,948.44,$948.44,"Argan, Inc."
+563,Vivyan Shirer,mastercard,663.67,$663.67,iPath US Treasury 10-year Bull ETN
+564,Matti Caroll,mastercard,541.21,$541.21,Koninklijke Philips N.V.
+565,Eal Dust,mastercard,202.31,$202.31,"H&E Equipment Services, Inc."
+566,Rogerio Cholerton,mastercard,177.02,$177.02,"Carrols Restaurant Group, Inc."
+567,Bellina Abrahamian,mastercard,445.26,$445.26,"Grupo Aeroportuario Del Pacifico, S.A. de C.V."
+568,Archaimbaud Middiff,mastercard,274.14,$274.14,"Workday, Inc."
+569,Joanne Hurdis,mastercard,651.92,$651.92,"Silicon Laboratories, Inc."
+570,Sarah Crallan,mastercard,58.12,$58.12,Origin Agritech Limited
+571,Billie Mc Caughan,mastercard,58.37,$58.37,"F5 Networks, Inc."
+572,Roarke Skeleton,mastercard,282.58,$282.58,"Aptose Biosciences, Inc."
+573,Ingeborg Renackowna,mastercard,256.23,$256.23,"GenVec, Inc."
+574,Elia Paradis,mastercard,323.62,$323.62,Legacy Reserves LP
+575,Aggi Blagburn,mastercard,90.83,$90.83,"Fresh Del Monte Produce, Inc."
+576,Evita Darley,mastercard,239.68,$239.68,Voya Natural Resources Equity Income Fund
+577,Tedman Janata,mastercard,530.34,$530.34,LMP Capital and Income Fund Inc.
+578,Dulcie Manjot,mastercard,209.51,$209.51,"Century Communities, Inc."
+579,Brenna Lavers,mastercard,894.06,$894.06,"Infinity Pharmaceuticals, Inc."
+580,Hilliard Halsted,mastercard,572.5,$572.50,"First Connecticut Bancorp, Inc."
+581,Beaufort Vamplus,mastercard,716.98,$716.98,"PrivateBancorp, Inc."
+582,Latrena Trebilcock,mastercard,563.77,$563.77,Banco Bradesco Sa
+583,Merline Kaygill,mastercard,242.85,$242.85,"A. Schulman, Inc."
+584,Deck Isted,mastercard,373.84,$373.84,DoubleLine Opportunistic Credit Fund
+585,Amerigo Colhoun,mastercard,444.56,$444.56,China Life Insurance Company Limited
+586,Arlin Gayter,mastercard,856.15,$856.15,Molson Coors Brewing  Company
+587,Algernon Crystal,mastercard,839.41,$839.41,China Petroleum & Chemical Corporation
+588,Mattheus Beatens,mastercard,372.67,$372.67,Edwards Lifesciences Corporation
+589,Bronny MacAlpine,mastercard,849.08,$849.08,"Profire Energy, Inc."
+590,Hayden Lambe,mastercard,145.58,$145.58,Cohen & Steers Inc
+591,Hali Deluze,mastercard,630.27,$630.27,"G. Willi-Food International,  Ltd."
+592,Carmela Cramond,mastercard,944.42,$944.42,First Trust Multi-Asset Diversified Income Index Fund
+593,Anet Lile,mastercard,833.12,$833.12,Rexnord Corporation
+594,Mel Peegrem,mastercard,972.11,$972.11,"Transcontinental Realty Investors, Inc."
+595,Callean Liccardi,mastercard,643.92,$643.92,Rosehill Resources Inc.
+596,Hobey Agglio,mastercard,926.78,$926.78,Bank Mutual Corporation
+597,Othella Webermann,mastercard,318.18,$318.18,"Equity Bancshares, Inc."
+598,Tommie Emmatt,mastercard,18.92,$18.92,"j2 Global, Inc."
+599,Valentino Kordes,mastercard,234.58,$234.58,Enzymotec Ltd.
+600,Iago Gwin,mastercard,599.05,$599.05,KraneShares CSI China Internet ETF
+601,Noble Leynton,mastercard,485.33,$485.33,Moog Inc.
+602,Abramo Yanez,mastercard,544.19,$544.19,"Surmodics, Inc."
+603,Valentino Sennett,mastercard,907.55,$907.55,Paylocity Holding Corporation
+604,Idell Bougourd,mastercard,278.89,$278.89,USD Partners LP
+605,Alec Gillmore,mastercard,754.61,$754.61,"Amicus Therapeutics, Inc."
+606,Ozzie Gianasi,mastercard,820.39,$820.39,San Juan Basin Royalty Trust
+607,Zechariah Pindell,mastercard,95.65,$95.65,"South Jersey Industries, Inc."
+608,Tymon Clearley,mastercard,206.9,$206.90,"Pepsico, Inc."
+609,Codie Rowett,mastercard,755.12,$755.12,Capital One Financial Corporation
+610,Arabele Labrom,mastercard,370.31,$370.31,Franco-Nevada Corporation
+611,Rochella Sommer,mastercard,369.52,$369.52,Internap Corporation
+612,Carly Hutchcraft,mastercard,585.22,$585.22,Blueprint Medicines Corporation
+613,Mathian Shutte,mastercard,14.57,$14.57,"Validus Holdings, Ltd."
+614,Mab Biggans,mastercard,560.41,$560.41,Independence Holding Company
+615,Don Lodin,mastercard,607.86,$607.86,"Cellectar Biosciences, Inc."
+616,Joletta Izkoveski,mastercard,142.0,$142.00,ZTO Express (Cayman) Inc.
+617,Vina Peart,mastercard,436.32,$436.32,Layne Christensen Company
+618,Sybyl Wetherick,mastercard,827.73,$827.73,Oil-Dri Corporation Of America
+619,Dorris Belcham,mastercard,288.85,$288.85,Elkhorn Commodity Rotation Strategy ETF
+620,Lynnea Gulleford,mastercard,294.33,$294.33,Sanofi
+621,Dredi Buttner,mastercard,815.25,$815.25,"Prudential Global Short Duration High Yield Fund, Inc."
+622,Grove Sweed,mastercard,978.62,$978.62,Neff Corporation
+623,Wenda Jayme,mastercard,121.14,$121.14,"Echo Global Logistics, Inc."
+624,Hedi Prozescky,mastercard,935.49,$935.49,Voya Natural Resources Equity Income Fund
+625,Janene Denerley,mastercard,671.18,$671.18,Newfield Exploration Company
+626,Klarrisa Ghilks,mastercard,361.39,$361.39,Davis Select Worldwide ETF
+627,Vivian Gilfoy,mastercard,960.4,$960.40,"China HGS Real Estate, Inc."
+628,Anjela Burkitt,mastercard,572.27,$572.27,"Aware, Inc."
+629,Max Highton,mastercard,175.75,$175.75,National General Holdings Corp
+630,Verge Voules,mastercard,206.79,$206.79,Alliance National Municipal Income Fund Inc
+631,Marven Oehme,mastercard,558.58,$558.58,Fifth Street Senior Floating Rate Corp.
+632,Eveleen Raw,mastercard,207.4,$207.40,Helios and Matheson Analytics Inc
+633,Kennan Billes,mastercard,284.96,$284.96,Camden National Corporation
+634,Eveline Ruddock,mastercard,405.28,$405.28,ObsEva SA
+635,Culley Roggero,mastercard,251.24,$251.24,Guggenheim Enhanced Equity Income Fund
+636,Christy Korting,mastercard,750.54,$750.54,"Ollie's Bargain Outlet Holdings, Inc."
+637,Whitaker Thornber,mastercard,501.01,$501.01,"America's Car-Mart, Inc."
+638,Brit Moncur,mastercard,708.2,$708.20,Park Sterling Corporation
+639,Juliane Pearsey,mastercard,936.75,$936.75,"Nike, Inc."
+640,Archibaldo De Blasiis,mastercard,33.7,$33.70,Legg Mason Emerging Markets Diversified Core ETF
+641,Malissa Wylam,mastercard,409.74,$409.74,"Pacific Biosciences of California, Inc."
+642,Rudiger Maven,mastercard,286.56,$286.56,ChinaCache International Holdings Ltd.
+643,Anastassia Jeayes,mastercard,716.04,$716.04,Extra Space Storage Inc
+644,Anna-diane Powdrell,mastercard,944.18,$944.18,"Idera Pharmaceuticals, Inc."
+645,Pietrek Shovelin,mastercard,621.48,$621.48,"New Relic, Inc."
+646,Dacy Trosdall,mastercard,139.27,$139.27,"FleetCor Technologies, Inc."
+647,Obed Sinclair,mastercard,71.28,$71.28,"Twitter, Inc."
+648,Imojean Alves,mastercard,298.07,$298.07,The ExOne Company
+649,Johannes Rentoul,mastercard,105.39,$105.39,"Edge Therapeutics, Inc."
+650,Sadie Hundy,mastercard,320.4,$320.40,"Proteon Therapeutics, Inc."
+651,Amelia Marcum,mastercard,207.52,$207.52,"New York Community Bancorp, Inc."
+652,Ree Defrain,mastercard,372.47,$372.47,Hilton Grand Vacations Inc.
+653,Waldo Jouannin,mastercard,873.91,$873.91,"tronc, Inc."
+654,Hayden Rymmer,mastercard,930.06,$930.06,Sun Hydraulics Corporation
+655,Siffre Grubbe,mastercard,915.34,$915.34,Buenaventura Mining Company Inc.
+656,Tierney Hars,mastercard,345.95,$345.95,"GWG Holdings, Inc"
+657,Manny Hospital,mastercard,187.49,$187.49,MER Telemanagement Solutions Ltd.
+658,Donal Bennett,mastercard,711.13,$711.13,First Merchants Corporation
+659,Delinda Eam,mastercard,183.24,$183.24,Fidelity Nasdaq Composite Index Tracking Stock
+660,Bondie Derham,mastercard,959.93,$959.93,Snap-On Incorporated
+661,Chrysa Levane,mastercard,947.67,$947.67,"Financial Institutions, Inc."
+662,Jocko Merriott,mastercard,416.25,$416.25,Blackrock California Municipal 2018 Term Trust
+663,Idalina Coultard,mastercard,628.3,$628.30,Natl Westminster Pfd
+664,Cooper Cornier,mastercard,491.17,$491.17,Martin Midstream Partners L.P.
+665,Artur Crocket,mastercard,173.41,$173.41,"Hawaiian Electric Industries, Inc."
+666,Jennica Frain,mastercard,99.6,$99.60,RenaissanceRe Holdings Ltd.
+667,Maurene Ipsgrave,mastercard,666.86,$666.86,"Health Insurance Innovations, Inc."
+668,Lainey Kenan,mastercard,100.59,$100.59,PowerShares DWA Technology Momenum Portfolio
+669,Marga Wyldbore,mastercard,911.61,$911.61,"World Wrestling Entertainment, Inc."
+670,Sherlocke Coburn,mastercard,781.03,$781.03,"Synthetic Fixed-Income Securities, Inc."
+671,Jesus Gatcliff,mastercard,293.62,$293.62,"B. Riley Financial, Inc."
+672,Kerstin Warne,mastercard,779.62,$779.62,"QuinStreet, Inc."
+673,Olympia Arias,mastercard,308.35,$308.35,"RE/MAX Holdings, Inc."
+674,Adrien Gabbatt,mastercard,903.68,$903.68,Alliance National Municipal Income Fund Inc
+675,Lorry Szymczyk,mastercard,64.94,$64.94,Burcon NutraScience Corp
+676,Tallie Pawlick,mastercard,629.17,$629.17,Nuveen AMT-Free Quality Municipal Income Fund
+677,Janis Firpo,mastercard,837.69,$837.69,"American Airlines Group, Inc."
+678,Eldin Raven,mastercard,465.67,$465.67,Transportadora De Gas Sa Ord B
+679,Thom Allix,mastercard,2.64,$2.64,Cabot Corporation
+680,Shara Carlesso,mastercard,851.16,$851.16,Legacy Reserves LP
+681,Lennie Hurrell,mastercard,480.95,$480.95,CECO Environmental Corp.
+682,Orlando McBrier,mastercard,440.2,$440.20,"Community Health Systems, Inc."
+683,Cassi Colicot,mastercard,374.75,$374.75,"MarineMax, Inc."
+684,Clyve Applewhaite,mastercard,756.56,$756.56,"Telephone and Data Systems, Inc."
+685,Rheta Keelin,mastercard,608.26,$608.26,California Water  Service Group Holding
+686,Antoine Maciejak,mastercard,287.45,$287.45,"Freightcar America, Inc."
+687,Michaeline Force,mastercard,105.31,$105.31,Blackrock Global
+688,Queenie Ewdale,mastercard,559.07,$559.07,"Luxoft Holding, Inc."
+689,Jemmie Guerrieri,mastercard,400.98,$400.98,Canadian Pacific Railway Limited
+690,Dennis Robers,mastercard,498.65,$498.65,Pennsylvania Real Estate Investment Trust
+691,Carleen Hovel,mastercard,433.43,$433.43,"National Health Investors, Inc."
+692,Jeana Mayte,mastercard,204.38,$204.38,DCT Industrial Trust Inc
+693,Shina Aimable,mastercard,177.14,$177.14,Old National Bancorp
+694,Lynnelle Challenor,mastercard,30.11,$30.11,Cars.com Inc.
+695,Allene Dayer,mastercard,27.41,$27.41,United Insurance Holdings Corp.
+696,Merola Lambourne,mastercard,295.31,$295.31,"Coherent, Inc."
+697,Duane Dougharty,mastercard,46.28,$46.28,iShares MSCI Europe Small-Cap ETF
+698,Birch Birtley,mastercard,465.3,$465.30,"Monolithic Power Systems, Inc."
+699,Alina Ramas,mastercard,603.21,$603.21,Materion Corporation
+700,Elisa Ciraldo,mastercard,731.92,$731.92,"InnerWorkings, Inc."
+701,Cordy De Meyer,mastercard,894.09,$894.09,"Nelnet, Inc."
+702,Martina Lemasney,mastercard,318.24,$318.24,"Aquinox Pharmaceuticals, Inc."
+703,Cassie Hellard,mastercard,775.24,$775.24,Cincinnati Bell Inc
+704,Liam Alflat,mastercard,129.64,$129.64,"Cohen & Steers Global Income Builder, Inc."
+705,Doy O'Fogerty,mastercard,820.57,$820.57,ASML Holding N.V.
+706,Karin Hindmore,mastercard,613.55,$613.55,Hudbay Minerals Inc.
+707,Maddie Troyes,mastercard,784.94,$784.94,Hersha Hospitality Trust
+708,Ardine Millgate,mastercard,437.62,$437.62,Blackstone GSO Senior Floating Rate Term Fund
+709,Melisandra Nayshe,mastercard,616.14,$616.14,CMS Energy Corporation
+710,Jefferson McGenis,mastercard,751.69,$751.69,"Acorn International, Inc."
+711,Brinna Corsor,mastercard,303.63,$303.63,Nuveen Short Duration Credit Opportunities Fund
+712,Brig Mallabon,mastercard,458.24,$458.24,Arbutus Biopharma Corporation
+713,Jaymee Davidge,mastercard,174.26,$174.26,"Hawkins, Inc."
+714,Ame Giacobbo,mastercard,890.06,$890.06,"UMH Properties, Inc."
+715,Rona Elcome,mastercard,805.25,$805.25,Ares Management L.P.
+716,Clari Bisacre,mastercard,166.92,$166.92,"CVR Refining, LP"
+717,Jennee Kleinberer,mastercard,925.11,$925.11,KNOT Offshore Partners LP
+718,Theo Barnshaw,mastercard,760.75,$760.75,Comtech Telecommunications Corp.
+719,Ernesto Wards,mastercard,35.3,$35.30,Retail Opportunity Investments Corp.
+720,Collen Frantz,mastercard,976.52,$976.52,Potbelly Corporation
+721,Dare Belt,mastercard,911.61,$911.61,"Camping World Holdings, Inc."
+722,April Ruff,mastercard,631.21,$631.21,Arcos Dorados Holdings Inc.
+723,Benny Woolfoot,mastercard,335.71,$335.71,"Discovery Communications, Inc."
+724,Faythe Cordon,mastercard,26.03,$26.03,Cabot Microelectronics Corporation
+725,Lurline Wayvill,mastercard,720.58,$720.58,"Papa Murphy's Holdings, Inc."
+726,Chelsie Karpenko,mastercard,455.48,$455.48,"North American Energy Partners, Inc."
+727,Dal Luca,mastercard,46.72,$46.72,Cameco Corporation
+728,Nanice Antalffy,mastercard,453.65,$453.65,Reading International Inc
+729,Angil Gilman,mastercard,330.7,$330.70,Stifel Financial Corporation
+730,Chet Karp,mastercard,307.75,$307.75,"SI Financial Group, Inc."
+731,Priscilla Stainer,mastercard,984.53,$984.53,Liberty Global plc
+732,Frederica Pigny,mastercard,379.38,$379.38,Astoria Financial Corporation
+733,Evvie Fairbairn,mastercard,3.01,$3.01,iShares Fallen Angels USD Bond ETF
+734,Siegfried Keer,mastercard,656.34,$656.34,"Validus Holdings, Ltd."
+735,Guendolen Aaronsohn,mastercard,652.87,$652.87,Blackrock Enhanced Equity Dividend Trust
+736,Rudyard Honnicott,mastercard,238.99,$238.99,LSI Industries Inc.
+737,Miguela Espinheira,mastercard,201.59,$201.59,"Enova International, Inc."
+738,Nissie Aylward,mastercard,153.89,$153.89,Tiffany & Co.
+739,Ashien Keningley,mastercard,733.97,$733.97,Flaherty & Crumrine Preferred Income Fund Incorporated
+740,Fredric Maunder,mastercard,175.7,$175.70,Verizon Communications Inc.
+741,Randa Semon,mastercard,241.66,$241.66,"Timberland Bancorp, Inc."
+742,Cointon Plumer,mastercard,115.9,$115.90,J P Morgan Chase & Co
+743,Kaia Malham,mastercard,859.23,$859.23,Liberty Interactive Corporation
+744,Evyn Blackney,mastercard,3.69,$3.69,KKR & Co. L.P.
+745,Gayleen Whiteman,mastercard,841.92,$841.92,Myovant Sciences Ltd.
+746,Kassi Richin,mastercard,596.91,$596.91,Gaming Partners International Corporation
+747,Casar Norcutt,mastercard,37.82,$37.82,Koss Corporation
+748,Ivan De Avenell,mastercard,719.56,$719.56,"Redwood Trust, Inc."
+749,Shane McEvoy,mastercard,164.99,$164.99,First Trust Strategic High Income Fund II
+750,Ferdinande Tissington,mastercard,840.63,$840.63,FIRST REPUBLIC BANK
+751,Russell Biermatowicz,mastercard,843.5,$843.50,Dynagas LNG Partners LP
+752,Wilden Catterall,mastercard,876.37,$876.37,Vedanta  Limited
+753,Glenna Allum,mastercard,680.68,$680.68,"Cracker Barrel Old Country Store, Inc."
+754,Bealle Duthie,mastercard,418.3,$418.30,ABM Industries Incorporated
+755,Romona Sturrock,mastercard,742.38,$742.38,First Trust Dynamic Europe Equity Income Fund
+756,Torey Grimsdith,mastercard,496.02,$496.02,"Floor & Decor Holdings, Inc."
+757,Ladonna Elliot,mastercard,961.58,$961.58,"Aerohive Networks, Inc."
+758,Wilhelmine Tigwell,mastercard,338.46,$338.46,"CryoLife, Inc."
+759,Evelyn Pappi,mastercard,34.05,$34.05,Peoples Financial Corporation
+760,Murdock Eastby,mastercard,276.77,$276.77,MSA Safety Incorporporated
+761,Chance Trussell,mastercard,181.31,$181.31,"Kindred Healthcare, Inc."
+762,Hailee Stenson,mastercard,248.72,$248.72,"Jones Energy, Inc."
+763,Salomo Rigmond,mastercard,899.33,$899.33,"Lakeland Industries, Inc."
+764,Coreen Rodgier,mastercard,509.84,$509.84,First Trust Europe AlphaDEX Fund
+765,Geno Leteurtre,mastercard,339.95,$339.95,"Boston Properties, Inc."
+766,Nikolai Kiehl,mastercard,94.25,$94.25,Woori Bank
+767,Nikolos Fidelus,mastercard,816.57,$816.57,Kimco Realty Corporation
+768,Jillayne Bolmann,mastercard,444.31,$444.31,Rosehill Resources Inc.
+769,Alonzo Lackeye,mastercard,518.05,$518.05,CBS Corporation
+770,Anabal Tallis,mastercard,802.89,$802.89,Teva Pharmaceutical Industries Limited
+771,Courtnay Forsyde,mastercard,570.79,$570.79,CombiMatrix Corporation
+772,Trula O'Rowane,mastercard,350.59,$350.59,"MAM Software Group, Inc."
+773,Man Echelle,mastercard,503.13,$503.13,"Banc of California, Inc."
+774,Guthrie Frichley,mastercard,122.37,$122.37,Seadrill Limited
+775,Wye Wake,mastercard,852.59,$852.59,Origo Acquisition Corporation
+776,Katuscha Philpott,mastercard,755.4,$755.40,PowerShares DWA NASDAQ Momentum Portfolio
+777,Gaylord Fair,mastercard,305.31,$305.31,Intellipharmaceutics International Inc.
+778,Trace Ellard,mastercard,384.86,$384.86,Carlisle Companies Incorporated
+779,Germain Altimas,mastercard,732.25,$732.25,Eaton Vance Municipal Income Trust
+780,Mill Arpino,mastercard,156.64,$156.64,Patriot National Bancorp Inc.
+781,Konstance Willmett,mastercard,91.26,$91.26,ProShares UltraPro Short NASDAQ Biotechnology
+782,Moises Harrema,mastercard,885.61,$885.61,Gabelli Multi-Media Trust Inc. (The)
+783,Lorens McNirlan,mastercard,796.94,$796.94,"ING Group, N.V."
+784,Gib Cicchitello,mastercard,667.56,$667.56,"AMERIPRISE FINANCIAL SERVICES, INC."
+785,Norry Heardman,mastercard,347.71,$347.71,Nuveen All Cap Energy MLP Opportunities Fund
+786,Kori Bracco,mastercard,155.3,$155.30,Oritani Financial Corp.
+787,Yves Lympenie,mastercard,741.92,$741.92,Gabelli Utility Trust (The)
+788,Corabella Jacks,mastercard,897.06,$897.06,"The Dixie Group, Inc."
+789,Ranice Grunnill,mastercard,471.21,$471.21,"Exelixis, Inc."
+790,Kore Nassy,mastercard,350.72,$350.72,Global X Health & Wellness Thematic ETF
+791,Hans Goodburn,mastercard,508.2,$508.20,Nuveen Municipal 2021 Target Term Fund
+792,Annmarie Nancarrow,mastercard,114.36,$114.36,Addus HomeCare Corporation
+793,Saxon Robiot,mastercard,222.49,$222.49,WisdomTree U.S. Quality Dividend Growth Fund
+794,Fancy Peyton,mastercard,751.81,$751.81,Great Elm Capital Corp.
+795,Emery Adriani,mastercard,780.46,$780.46,Stone Energy Corporation
+796,Gibb Prewer,mastercard,700.94,$700.94,"First Bancorp, Inc (ME)"
+797,Mikey Rigler,mastercard,684.9,$684.90,Capstone Turbine Corporation
+798,Ripley Joerning,mastercard,246.27,$246.27,Anworth Mortgage Asset  Corporation
+799,Hobie Dexter,mastercard,434.13,$434.13,Capital One Financial Corporation
+800,Marve Prando,mastercard,843.18,$843.18,First Trust Nasdaq Semiconductor ETF
+801,Giulio Bullman,mastercard,142.11,$142.11,"KMG Chemicals, Inc."
+802,Jameson Evamy,mastercard,594.21,$594.21,S&P Global Inc.
+803,Ianthe Jeste,mastercard,368.24,$368.24,"Pixelworks, Inc."
+804,Mavis Poulden,mastercard,506.43,$506.43,ENDRA Life Sciences Inc.
+805,Gregorio Sabine,mastercard,74.33,$74.33,Deutsch Bk Contingent Cap Tr V
+806,Annemarie Bignell,mastercard,914.08,$914.08,"Summit Hotel Properties, Inc."
+807,Pepita Mathwen,mastercard,319.26,$319.26,"Kimball International, Inc."
+808,Cathleen Philot,mastercard,662.21,$662.21,Janus Henderson SG Global Quality Income ETF
+809,Belita Le Clercq,mastercard,473.32,$473.32,Liberty Media Corporation
+810,Esther Joul,mastercard,66.21,$66.21,Grupo Aval Acciones y Valores S.A.
+811,Dode Skippen,mastercard,969.53,$969.53,"Triumph Bancorp, Inc."
+812,Nicolle deKnevet,mastercard,687.28,$687.28,Invacare Corporation
+813,Lamont Amber,mastercard,656.25,$656.25,"DelMar Pharmaceuticals, Inc."
+814,Ezri Harrill,mastercard,918.94,$918.94,BlackBerry Limited
+815,Garret Piggin,mastercard,24.87,$24.87,Regulus Therapeutics Inc.
+816,Udell Mathon,mastercard,847.8,$847.80,Semiconductor  Manufacturing International Corporation
+817,Immanuel Mably,mastercard,426.03,$426.03,Stone Energy Corporation
+818,Harper Spiby,mastercard,99.37,$99.37,Nomad Foods Limited
+819,Bink Jeffels,mastercard,958.64,$958.64,"WESCO International, Inc."
+820,Jory Wife,mastercard,860.42,$860.42,National Retail Properties
+821,Kipp Halpin,mastercard,458.15,$458.15,"Papa Murphy's Holdings, Inc."
+822,Christian Rosewall,mastercard,154.92,$154.92,Emclaire Financial Corp
+823,Rutter Van Velden,mastercard,177.68,$177.68,Nuveen Select Tax Free Income Portfolio
+824,Inge Joddens,mastercard,163.09,$163.09,FedEx Corporation
+825,Marlowe Windas,mastercard,237.43,$237.43,Innodata Inc.
+826,Corette Dufour,mastercard,3.71,$3.71,Royal Bank Scotland plc (The)
+827,Benedict Josling,mastercard,621.29,$621.29,Marathon Oil Corporation
+828,Leicester Schoenrock,mastercard,719.72,$719.72,"Juniper Pharmaceuticals, Inc."
+829,Lazarus Drayton,mastercard,120.55,$120.55,Putnam High Income Bond Fund
+830,Ingaborg Pavy,mastercard,21.1,$21.10,Pimco Income Opportunity Fund
+831,Amble Fenn,mastercard,924.8,$924.80,Paylocity Holding Corporation
+832,Trstram O'Flaherty,mastercard,402.87,$402.87,First Trust Low Duration Opportunities ETF
+833,Eyde Orris,mastercard,575.0,$575.00,WisdomTree Emerging Markets Quality Dividend Growth Fund
+834,Casey Venditti,mastercard,524.45,$524.45,Diodes Incorporated
+835,Keir Papierz,mastercard,410.5,$410.50,First Trust Nasdaq Oil & Gas ETF
+836,Aube Thunderchief,mastercard,849.62,$849.62,"Pinnacle Financial Partners, Inc."
+837,Rosalynd McGeagh,mastercard,560.49,$560.49,Pingtan Marine Enterprise Ltd.
+838,Xena Waterhowse,mastercard,612.82,$612.82,PowerShares KBW High Dividend Yield Financial Portfolio
+839,Clyde Pretor,mastercard,273.64,$273.64,NASDAQ TEST STOCK
+840,Kliment Padefield,mastercard,712.81,$712.81,Repligen Corporation
+841,Karee Willingham,mastercard,490.44,$490.44,"Beacon Roofing Supply, Inc."
+842,Roze Purviss,mastercard,765.36,$765.36,"Bear State Financial, Inc."
+843,Dorey Henrichs,mastercard,627.93,$627.93,"Host Hotels & Resorts, Inc."
+844,Bartolomeo Evamy,mastercard,127.16,$127.16,Avianca Holdings S.A.
+845,Hamel Schwand,mastercard,855.52,$855.52,Cytosorbents Corporation
+846,Eva Scorer,mastercard,749.26,$749.26,"Reliv' International, Inc."
+847,Tasia Balbeck,mastercard,803.65,$803.65,Hardinge Inc.
+848,Ralph Hulkes,mastercard,552.17,$552.17,"support.com, Inc."
+849,Joyann Bertelsen,mastercard,156.55,$156.55,ContraFect Corporation
+850,Dede Dovinson,mastercard,863.18,$863.18,"China Jo-Jo Drugstores, Inc."
+851,Wallache Braidon,mastercard,575.73,$575.73,Brookdale Senior Living Inc.
+852,Mabel Rizziello,mastercard,147.19,$147.19,American Homes 4 Rent
+853,Jerald Traylen,mastercard,404.6,$404.60,"Reinsurance Group of America, Incorporated"
+854,Lief Jillis,mastercard,177.67,$177.67,"EnLink Midstream, LLC"
+855,Morissa McOrkill,mastercard,584.99,$584.99,"Union Bankshares, Inc."
+856,Clem Westerman,mastercard,616.87,$616.87,"Catasys, Inc."
+857,Ambros Kauschke,mastercard,955.7,$955.70,Westlake Chemical Partners LP
+858,Mariya Selliman,mastercard,423.35,$423.35,"Summit Hotel Properties, Inc."
+859,Denver Bott,mastercard,69.42,$69.42,iShares MSCI Europe Financials Sector Index Fund
+860,Audy Aronoff,mastercard,938.55,$938.55,First Trust BICK Index Fund
+861,Seana Knappen,mastercard,799.78,$799.78,"BofI Holding, Inc."
+862,Chrotoem Pitt,mastercard,657.08,$657.08,"Fossil Group, Inc."
+863,Zorina Bownde,mastercard,670.48,$670.48,Mobileye N.V.
+864,Binni Prate,mastercard,190.59,$190.59,"athenahealth, Inc."
+865,Amabelle Gration,mastercard,260.53,$260.53,Garrison Capital Inc.
+866,Rafael Bisset,mastercard,544.72,$544.72,Nexvet Biopharma plc
+867,Leopold Farrants,mastercard,61.91,$61.91,"Independence Contract Drilling, Inc."
+868,Onofredo Tonbridge,mastercard,961.06,$961.06,"Popular, Inc."
+869,Fleming Jonathon,mastercard,387.48,$387.48,"Voyager Therapeutics, Inc."
+870,Leonardo Kenneford,mastercard,322.71,$322.71,"Cloudera, Inc."
+871,Wilden Lowdham,mastercard,176.41,$176.41,ProQR Therapeutics N.V.
+872,Aloin Eyckelberg,mastercard,654.54,$654.54,Geron Corporation
+873,Jaime Sowthcote,mastercard,50.8,$50.80,"Chunghwa Telecom Co., Ltd."
+874,Damian O' Kelleher,mastercard,876.95,$876.95,"Fenix Parts, Inc."
+875,Berenice McElree,mastercard,82.9,$82.90,Gilat Satellite Networks Ltd.
+876,Maje Rickcord,mastercard,259.35,$259.35,DCT Industrial Trust Inc
+877,Francisca Winscum,mastercard,489.06,$489.06,"Celestica, Inc."
+878,Elie Scampion,mastercard,560.7,$560.70,Atossa Genetics Inc.
+879,Milena Hurdidge,mastercard,196.64,$196.64,"M I Acquisitions, Inc."
+880,Jakie Crucitti,mastercard,862.37,$862.37,Invitation Homes Inc.
+881,Heindrick Iannelli,mastercard,229.15,$229.15,"MoSys, Inc."
+882,Araldo Hattigan,mastercard,104.2,$104.20,"Pacira Pharmaceuticals, Inc."
+883,Gordan Vannar,mastercard,458.26,$458.26,Camden National Corporation
+884,Eugine Stoakes,mastercard,66.65,$66.65,Liberty Interactive Corporation
+885,Lydia Way,mastercard,303.48,$303.48,General Dynamics Corporation
+886,Angel Videan,mastercard,698.14,$698.14,Glen Burnie Bancorp
+887,Berny Blight,mastercard,245.51,$245.51,Invesco Plc
+888,Ingunna Bertot,mastercard,369.13,$369.13,Park-Ohio Holdings Corp.
+889,Ana Stonelake,mastercard,929.33,$929.33,"United Natural Foods, Inc."
+890,Malina Kleiner,mastercard,94.28,$94.28,"Intellia Therapeutics, Inc."
+891,Modesty Brooksbie,mastercard,247.16,$247.16,Neptune Technologies & Bioresources Inc
+892,Beilul Hargitt,mastercard,517.08,$517.08,"ARCA biopharma, Inc."
+893,Delbert Smitherman,mastercard,111.41,$111.41,AllianzGI Diversified Income & Convertible Fund
+894,Lind Fortun,mastercard,896.49,$896.49,"Sun Bancorp, Inc."
+895,Ursa Paroni,mastercard,0.19,$0.19,"Magyar Bancorp, Inc."
+896,Kennie Howey,mastercard,120.55,$120.55,DTE Energy Company
+897,Delora Martignoni,mastercard,375.53,$375.53,"Natera, Inc."
+898,Lotti Sondland,mastercard,250.97,$250.97,Annaly Capital Management Inc
+899,Kelsey Stallen,mastercard,889.41,$889.41,DAVIDsTEA Inc.
+900,Michal Wrangle,mastercard,187.22,$187.22,Qualstar Corporation
+901,Brinna McLean,mastercard,6.97,$6.97,Teck Resources Ltd
+902,Ellswerth Hurdis,mastercard,530.59,$530.59,Eagle Point Credit Company Inc.
+903,Jaymee Lightning,mastercard,45.99,$45.99,"Aduro Biotech, Inc."
+904,Cass Charkham,mastercard,682.87,$682.87,"Zayo Group Holdings, Inc."
+905,Eli Blundel,mastercard,278.97,$278.97,"SINOPEC Shangai Petrochemical Company, Ltd."
+906,Patrice Pengelly,mastercard,347.58,$347.58,"Gabelli Convertible and Income Securities Fund, Inc. (The)"
+907,Mano Mingo,mastercard,463.39,$463.39,"ServiceMaster Global Holdings, Inc."
+908,Gnni Loughan,mastercard,599.08,$599.08,"LightInTheBox Holding Co., Ltd."
+909,Carey Lumbers,mastercard,188.27,$188.27,Fortress Investment Group LLC
+910,Emmery Halden,mastercard,898.29,$898.29,"Schnitzer Steel Industries, Inc."
+911,Enrique English,mastercard,403.31,$403.31,"LGI Homes, Inc."
+912,Orv Zanicchelli,mastercard,646.06,$646.06,"Sinovac Biotech, Ltd."
+913,Gwyn Patient,mastercard,92.78,$92.78,Trans World Entertainment Corp.
+914,Pippo Tomkys,mastercard,215.71,$215.71,EPR Properties
+915,Gertruda Gommowe,mastercard,513.24,$513.24,Nuveen Global High Income Fund
+916,Daisi Woolway,mastercard,220.07,$220.07,Silver Run Acquisition Corporation II
+917,Ludvig Zoppie,mastercard,778.57,$778.57,"Insteel Industries, Inc."
+918,Kirsteni Huertas,mastercard,987.08,$987.08,VWR Corporation
+919,Fabiano Wapplington,mastercard,620.41,$620.41,Twilio Inc.
+920,Daren Boater,mastercard,867.98,$867.98,AllianzGI Convertible & Income Fund
+921,Ilysa Carvell,mastercard,481.62,$481.62,"Assurant, Inc."
+922,Ade Strasse,mastercard,751.03,$751.03,Gabelli NextShares Trust
+923,Klarika Nottram,mastercard,714.91,$714.91,The Charles Schwab Corporation
+924,Arne Lendrem,mastercard,22.21,$22.21,"Swiss Helvetia Fund, Inc. (The)"
+925,Raffaello Blunsum,mastercard,337.07,$337.07,"Luby's, Inc."
+926,Bettina Manwaring,mastercard,630.67,$630.67,Select Comfort Corporation
+927,Haven Lincey,mastercard,49.05,$49.05,Merus N.V.
+928,Arnuad Brasner,mastercard,598.18,$598.18,"Insteel Industries, Inc."
+929,Gabbie Stichall,mastercard,537.16,$537.16,"Baldwin & Lyons, Inc."
+930,Otto Marr,mastercard,990.39,$990.39,Medovex Corp.
+931,Neddy Stook,mastercard,344.25,$344.25,Pzena Investment Management Inc
+932,Harrie Minard,mastercard,417.21,$417.21,"BofI Holding, Inc."
+933,Odele Millis,mastercard,897.72,$897.72,Winmark Corporation
+934,Henrietta Mattusevich,mastercard,205.77,$205.77,Chesapeake Lodging Trust
+935,Karl Loude,mastercard,160.01,$160.01,"Dycom Industries, Inc."
+936,Anne-marie MacLaren,mastercard,272.56,$272.56,Gladstone Investment Corporation
+937,Nilson Pedrocchi,mastercard,496.11,$496.11,"HarborOne Bancorp, Inc."
+938,Talyah Petrasch,mastercard,363.71,$363.71,Templeton Emerging Markets Fund
+939,Linet Agirre,mastercard,918.32,$918.32,"Advaxis, Inc."
+940,Willamina Fantone,mastercard,596.07,$596.07,JMU Limited
+941,Concordia Lezemere,mastercard,685.96,$685.96,"Kimball Electronics, Inc."
+942,Kai Suter,mastercard,8.11,$8.11,"County Bancorp, Inc."
+943,Flora Frensch,mastercard,191.08,$191.08,Actua Corporation
+944,Ange Besque,mastercard,285.73,$285.73,"Nustar GP Holdings, LLC"
+945,Riobard Rozet,mastercard,416.68,$416.68,Ball Corporation
+946,Wilden Ruler,mastercard,988.8,$988.80,"Methode Electronics, Inc."
+947,Robbyn Keeling,mastercard,22.34,$22.34,"Aratana Therapeutics, Inc."
+948,Sydney Grumell,mastercard,972.7,$972.70,"RSP Permian, Inc."
+949,Geordie Clawley,mastercard,634.43,$634.43,Sotheby's
+950,Nickola Dulanty,mastercard,831.88,$831.88,"CNO Financial Group, Inc."
+951,Kitti Yve,mastercard,405.76,$405.76,"Foundation Building Materials, Inc."
+952,Datha Corkell,mastercard,114.8,$114.80,"PS Business Parks, Inc."
+953,Marie-jeanne Salt,mastercard,34.21,$34.21,Xcel Energy Inc.
+954,Myrtle Adie,mastercard,431.06,$431.06,BankFinancial Corporation
+955,Leyla Callaby,mastercard,646.48,$646.48,Gladstone Commercial Corporation
+956,Gill Tweedie,mastercard,166.38,$166.38,WisdomTree U.S. Quality Dividend Growth Fund
+957,Orion Cherrie,mastercard,663.63,$663.63,"Alarm.com Holdings, Inc."
+958,Kakalina Dethloff,mastercard,345.16,$345.16,"Regeneron Pharmaceuticals, Inc."
+959,Daisey Rioch,mastercard,814.89,$814.89,Synovus Financial Corp.
+960,Lynea Perico,mastercard,108.28,$108.28,Anixter International Inc.
+961,Georgy Haldin,mastercard,134.93,$134.93,First Trust Low Beta Income ETF
+962,Vanya Webland,mastercard,192.69,$192.69,"Blackrock MuniHoldings Fund, Inc."
+963,Elane Djekic,mastercard,544.68,$544.68,"Colony NorthStar, Inc."
+964,Ardisj Meriott,mastercard,400.61,$400.61,"S&T Bancorp, Inc."
+965,Baillie Francescotti,mastercard,565.99,$565.99,Lindblad Expeditions Holdings Inc. 
+966,Pippy Cullen,mastercard,959.7,$959.70,"Turkish Investment Fund, Inc. (The)"
+967,Andrei Clague,mastercard,971.11,$971.11,Brown Forman Corporation
+968,Raphael Babbidge,mastercard,9.76,$9.76,"NxStage Medical, Inc."
+969,Tanhya Beacon,mastercard,241.49,$241.49,Stellar Acquisition III Inc.
+970,Elysia Moultrie,mastercard,267.0,$267.00,Vanguard International Dividend Appreciation ETF
+971,Roana Barnett,mastercard,500.41,$500.41,"Associated Capital Group, Inc."
+972,Marthe Firman,mastercard,172.99,$172.99,"Rand Logistics, Inc."
+973,Jacquenette Wilman,mastercard,670.29,$670.29,Medigus Ltd.
+974,Iorgo O'Breen,mastercard,538.01,$538.01,"Commerce Bancshares, Inc."
+975,Major Quilty,mastercard,675.01,$675.01,Acushnet Holdings Corp.
+976,Amalee Stodit,mastercard,51.68,$51.68,"Forrester Research, Inc."
+977,Gilbert Allbon,mastercard,185.66,$185.66,Franco-Nevada Corporation
+978,Roxanna Megroff,mastercard,429.76,$429.76,Swift Transportation Company
+979,Mead Amar,mastercard,62.41,$62.41,PowerShares Dividend Achievers Portfolio
+980,Myron Daybell,mastercard,47.76,$47.76,Axis Capital Holdings Limited
+981,Mathian Killik,mastercard,562.18,$562.18,Sears Canada Inc. 
+982,Lucinda Hourigan,mastercard,763.57,$763.57,Nuveen Select Tax Free Income Portfolio III
+983,Faina Osborn,mastercard,570.43,$570.43,Purefunds Solactive FinTech ETF
+984,Mohammed Polo,mastercard,827.83,$827.83,"Stag Industrial, Inc."
+985,Corie Prozillo,mastercard,871.09,$871.09,First Trust NASDAQ Clean Edge Green Energy Index Fund
+986,Eyde Reddings,mastercard,358.38,$358.38,Western Union Company (The)
+987,Nathanial Twiddy,mastercard,500.36,$500.36,Natural Resource Partners LP
+988,Emili Hernik,mastercard,302.54,$302.54,Ciena Corporation
+989,Gregorius Casaroli,mastercard,474.86,$474.86,"Cloudera, Inc."
+990,Madelon Muriel,mastercard,3.29,$3.29,"ARCA biopharma, Inc."
+991,Sandie Timlin,mastercard,865.45,$865.45,"Alarm.com Holdings, Inc."
+992,Christiano Grafom,mastercard,19.75,$19.75,Nuveen New York Municipal Value Fund 2
+993,Uta Salmon,mastercard,867.89,$867.89,Ally Financial Inc.
+994,Vinita Danielsson,mastercard,342.38,$342.38,Envision Healthcare Corporation
+995,Rivy Glendza,mastercard,158.92,$158.92,"TerraForm Global, Inc."
+996,Britte Buessen,mastercard,596.51,$596.51,"Keryx Biopharmaceuticals, Inc."
+997,Madelle Ince,mastercard,356.02,$356.02,California Resources Corporation
+998,Dyna Harler,mastercard,17.56,$17.56,"Blackrock Enhanced Government Fund, Inc"
+999,Paquito Flade,mastercard,615.29,$615.29,"Viking Therapeutics, Inc."
+1000,Percy Mewe,mastercard,719.24,$719.24,"Digiliti Money Group, Inc."
